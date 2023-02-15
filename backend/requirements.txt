@@ -1,0 +1,5 @@
+Flask
+neattext
+pandas
+scikit-learn
+flask-cors
