@@ -1,4 +1,4 @@
-const HOST = "http://192.168.43.250:5001"
+const HOST = "http://192.168.43.245:5001"
 
 async function Recommendation(query) {
     return new Promise(async(resolve, reject) => {
