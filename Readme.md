@@ -1,6 +1,6 @@
 # Course Recommendation System
 
-![Output](https://github.com/generic-matrix/Courserecommendation/blob/main/Output/gif?raw=true)
+![Output](https://github.com/generic-matrix/Courserecommendation/blob/main/Output/output.gif?raw=true)
 
 # Start the backend services
 
